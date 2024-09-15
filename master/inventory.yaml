@@ -1,0 +1,4 @@
+virtualmachines:
+  hosts:
+    master:
+      ansible_host: thanadon-k@172.20.10.11

@@ -1,0 +1,4 @@
+virtualmachines:
+  hosts:
+    test:
+      ansible_host: thanadon-k@172.20.10.12
